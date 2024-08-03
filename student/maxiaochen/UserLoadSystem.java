@@ -4,7 +4,7 @@ import java.util.HashMap; // 引入 HashMap 类
 import java.util.Scanner;
 
 
-public class userLoadSystem {
+public class UserLoadSystem {
     public static int loginStatusData = 0;
     private static String userName = "";
     private static HashMap<String, String> password = new HashMap<String, String>();
