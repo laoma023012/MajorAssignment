@@ -36,5 +36,4 @@ public class TaskStatus {
             System.out.println(userReward.get(RewardStatusName));
         }
     }
-
 }

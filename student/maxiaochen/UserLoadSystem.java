@@ -67,7 +67,6 @@ public class UserLoadSystem {
 
         }
         setUserName(userName);
-        scanner.close();
 
         loginStatusData = 1;
     }
